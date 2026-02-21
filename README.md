@@ -1,4 +1,4 @@
 # New Project
 
 This project was created on local system.
-Created by Sanchit Singh.
+Created by Sanchit Singh Rajput.
